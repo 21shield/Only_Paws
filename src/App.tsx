@@ -1,11 +1,9 @@
-import Layout from "./components/layout";
+import Layout from "./modules/layout";
 
 function App() {
   return (
     <>
-      <Layout>
-        <h1>SOME INFORMATION OF THE WEBSITE</h1>
-      </Layout>
+      <Layout></Layout>
     </>
   );
 }

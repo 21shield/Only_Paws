@@ -1,6 +1,6 @@
 import Container from "@mui/material/Container";
-import Header from "./navigation/header";
-import { Footer } from "./navigation/footer";
+import Header from "./navigation/components/header";
+import { Footer } from "./navigation/components/footer";
 
 function Layout() {
   return (
